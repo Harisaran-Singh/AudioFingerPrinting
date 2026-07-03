@@ -1,4 +1,4 @@
-# Zapptain-America - Song Identifier
+# Audio Fingerprinting-Based Song Identification System
 
 An audio fingerprinting app, built on the **spectrogram / constellation map / hash matching** pipeline.
 
